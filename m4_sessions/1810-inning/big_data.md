@@ -1,7 +1,10 @@
 ## Group Members:
 JP Lynch
+
 Kurt Miller
+
 Gray Smith
+
 Joel O'Connor
 
 ## Name of Session: 
