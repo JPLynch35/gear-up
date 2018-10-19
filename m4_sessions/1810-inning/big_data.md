@@ -14,7 +14,7 @@ Big Data: How Big is Big Enough?
 Step into big data: what it is, how it's used, and what are the ethical ramifications.
 
 ## Session Outcomes 
-Whta is big data?
+What is big data?
 
 What tools are used in big data?
 
