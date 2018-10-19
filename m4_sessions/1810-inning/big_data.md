@@ -22,19 +22,19 @@ WHat are the ethical ramifications of bigdata?
      Share resources in your slack channel
      All sessions NEED to have a closing activity, reflection, discussion
 ## Session Outline 
-Student intros- name, mod, a hobby outside of coding (10min) All  
+#### Student intros- name, mod, a hobby outside of coding (10min) All  
 
-Presentation of what is big data- (10min) Kurt and Joel 
+#### Presentation of what is big data- (10min) Kurt and Joel 
 
-Possible video explaining big data (7min) All
+#### Possible video explaining big data (7min) All
 
-Presentation of what tools are used in big data- (7min) Gray
+#### Presentation of what tools are used in big data- (7min) Gray
 
-Presentation on ethics of big data- (7min) JP
+#### Presentation on ethics of big data- (7min) JP
  * experts for
  * experts against
 
-Seperate students into 4 groups (2 for pros of big data, 2 for negatives of big data), dicuss amongst groups, each group will present in the front of the class (20min) All
+#### Seperate students into 4 groups (2 for pros of big data, 2 for negatives of big data), dicuss amongst groups, each group will present in the front of the class (20min) All
 
 Debate  
 
@@ -46,8 +46,8 @@ I believe that big data increases the efficiency of companies, enhances the end 
 
 I believe that big data is a violation of privacy, its creepy, companies shouldn’t be monitoring my every move. Big data collection should regulated by the government and tracking should be limited.
 
-Entire class discussion on people's view points (personal viewpoints, seperate form previosuly assigned viewpoint) (10min)All
+#### Entire class discussion on people's view points (personal viewpoints, seperate form previosuly assigned viewpoint) (10min)All
 
-Wrap up- (5min) All
+#### Wrap up- (5min) All
 
 @emhickmann
