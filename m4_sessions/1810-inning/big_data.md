@@ -31,14 +31,15 @@ WHat are the ethical ramifications of bigdata?
 
 #### Possible video explaining big data (7min) All
 
+### 3min POM
+
 #### Presentation of what tools are used in big data- (7min) Gray
 
 #### Presentation on ethics of big data- (7min) JP
  * experts for
  * experts against
-
-#### Seperate students into 4 groups (2 for pros of big data, 2 for negatives of big data), dicuss amongst groups, each group will present in the front of the class (20min) All
-
+ 
+#### Explain debate instructions (5min)
 Debate  
 
 Context: When you’re on Facebook every click, mouse move, video you watch, and search you make is being tracked and influencing the advertising that is being directed towards you.  
@@ -48,6 +49,10 @@ Debate viewpoints
 I believe that big data increases the efficiency of companies, enhances the end user experience and will lead to better internet. Big data collection should remain legal and unregulated.  
 
 I believe that big data is a violation of privacy, its creepy, companies shouldn’t be monitoring my every move. Big data collection should regulated by the government and tracking should be limited.
+
+#### Seperate students into 4 groups (2 for pros of big data, 2 for negatives of big data), dicuss amongst groups, each group will prep a presentartion (10min) All
+
+#### Each group will present their assigned viewpoint and arguments (15min) All
 
 #### Entire class discussion on people's view points (personal viewpoints, seperate form previosuly assigned viewpoint) (10min)All
 
